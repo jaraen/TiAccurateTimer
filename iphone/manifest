@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.2.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: Accurate Timer for iOS
+author: Javier Rayon (Criteria Studio)
+license: Apache license 2
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: AccurateTimer
+moduleid: com.accuratetimer
+guid: 3ff4a9b2-1b2c-4809-b98a-13a615beee4d
+platform: iphone
+minsdk: 3.5.0.GA
+
