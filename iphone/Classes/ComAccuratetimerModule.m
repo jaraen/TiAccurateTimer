@@ -73,7 +73,7 @@ void InitTimer(){
 // this is generated for your module, please do not change it
 -(id)moduleGUID
 {
-	return @"14f22b60-4cf8-40a1-9d0c-53320d834823";
+	return @"3ff4a9b2-1b2c-4809-b98a-13a615beee4d";
 }
 
 // this is generated for your module, please do not change it
